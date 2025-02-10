@@ -3,6 +3,7 @@
 ###########
 alias ls='ls --color=auto'
 alias ll='ls -alF'
+alias brew_install="brew leaves -r"
 
 ##############
 # Go Aliases #
